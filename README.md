@@ -1,4 +1,4 @@
-# speedstar
+# SpeedStar
 
 A quick simple game I made using Phaser 3 on HTML5.
 
